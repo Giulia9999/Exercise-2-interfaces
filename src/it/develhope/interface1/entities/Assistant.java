@@ -13,7 +13,7 @@ public class Assistant extends CollegePerson implements LearningPerson, Teaching
     }
     @Override
     public void studyAtHome() {
-        System.out.println("I study at home");
+        System.out.println("I study at home, will I take the PHD? " + isGoingToBeAPhD);
     }
 
     @Override

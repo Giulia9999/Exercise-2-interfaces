@@ -13,6 +13,6 @@ public class Student extends CollegePerson implements  LearningPerson{
     }
     @Override
     public void studyAtHome() {
-        System.out.println("I'm studying at home");
+        System.out.println("I'm studying at home, the academic year is " + academicYear);
     }
 }
