@@ -1,5 +1,7 @@
 package it.develhope.interface1.entities;
-
+/**
+ * Define subclass Assistant
+ */
 public class Assistant extends CollegePerson implements LearningPerson, TeachingPerson{
     boolean isGoingToBeAPhD;
 

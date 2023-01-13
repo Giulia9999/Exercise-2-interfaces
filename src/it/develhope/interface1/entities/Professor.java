@@ -1,5 +1,7 @@
 package it.develhope.interface1.entities;
-
+/**
+ * Define subclass Professor
+ */
 public class Professor extends CollegePerson implements TeachingPerson{
     String teachingSubject;
 
