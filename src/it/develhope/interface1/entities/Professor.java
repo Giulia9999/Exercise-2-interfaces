@@ -12,7 +12,7 @@ public class Professor extends CollegePerson implements TeachingPerson{
 
     @Override
     public void teachToOtherPeople() {
-
+        System.out.println("I teach to other people");
     }
 
 
