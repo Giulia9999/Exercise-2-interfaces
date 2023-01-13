@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ceffba01-1779-462e-8702-7a6b271adc51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/it/develhope/interface1/entities/Professor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/interface1/entities/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it/develhope/interface1/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it/develhope/interface1/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
