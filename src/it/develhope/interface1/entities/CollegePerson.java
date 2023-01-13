@@ -1,6 +1,6 @@
 package it.develhope.interface1.entities;
 /**
- * defining a Superclass
+ * define a Superclass
  */
 public class CollegePerson {
     public String name;
